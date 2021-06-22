@@ -1,0 +1,9 @@
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\bin\Release\CSDLDPT.exe.config
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\bin\Release\CSDLDPT.exe
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\bin\Release\CSDLDPT.pdb
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\obj\Release\CSDLDPT.Form1.resources
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\obj\Release\CSDLDPT.Properties.Resources.resources
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\obj\Release\CSDLDPT.csproj.GenerateResource.cache
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\obj\Release\CSDLDPT.csproj.CoreCompileInputs.cache
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\obj\Release\CSDLDPT.exe
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\obj\Release\CSDLDPT.pdb

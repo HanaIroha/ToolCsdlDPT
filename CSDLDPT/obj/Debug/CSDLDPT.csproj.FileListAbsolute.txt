@@ -1,0 +1,10 @@
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\bin\Debug\CSDLDPT.exe.config
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\bin\Debug\CSDLDPT.exe
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\bin\Debug\CSDLDPT.pdb
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\obj\Debug\CSDLDPT.csprojAssemblyReference.cache
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\obj\Debug\CSDLDPT.Form1.resources
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\obj\Debug\CSDLDPT.Properties.Resources.resources
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\obj\Debug\CSDLDPT.csproj.GenerateResource.cache
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\obj\Debug\CSDLDPT.csproj.CoreCompileInputs.cache
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\obj\Debug\CSDLDPT.exe
+C:\Users\Iroha\source\repos\CSDLDPT\CSDLDPT\obj\Debug\CSDLDPT.pdb
